@@ -1,0 +1,16 @@
+header {
+  color: #00fff8
+}
+
+body{
+    background-color: #0065ff;
+    text-align: center;
+  }
+
+div {
+  color: #ff0000;
+}
+
+img {
+    border: 10px solid black
+  }
